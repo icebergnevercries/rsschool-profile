@@ -1,2 +1,2 @@
 Denis Losik
-HTML CSS Basics: https://www.codecademy.com/icebergnevercries6542889979
+HTML CSS Basics: https://www.codecademy.com/users/icebergnevercries6542889979/achievements
